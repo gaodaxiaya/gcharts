@@ -1,5 +1,36 @@
 {
   "stable": {
+    "mtphotos": {
+      "app_readme": "<h1>mtphotos</h1>\n<p>一款为 Nas 玩家准备的照片管理系统</p>",
+      "categories": [
+        "media"
+      ],
+      "description": "mtphotos",
+      "healthy": true,
+      "healthy_error": null,
+      "home": "https://mtmt.tech/",
+      "location": "/__w/xhcart/xchart/stable/mtphotos",
+      "latest_version": "1.0.26",
+      "latest_app_version": "1.25.1",
+      "latest_human_version": "1.25.1",
+      "last_update": "2023-12-12 13:53:23",
+      "name": "mtphotos",
+      "recommended": false,
+      "title": "mtphotos",
+      "maintainers": [
+        {
+          "name": "qwerty007",
+          "url": "https://gitee.com/qwerty0007/xchart",
+          "email": "1165505953@qq.com"
+        }
+      ],
+      "tags": [],
+      "screenshots": [],
+      "sources": [
+        "https://gitee.com/mt-photos/charts.git"
+      ],
+      "icon_url": "https://cdn.mtmt.tech/logo-r.png"
+    },
     "moviepilot": {
       "app_readme": "<h1>moviepilot</h1>\n<p>媒体整理， pt 刷流工具</p>",
       "categories": [
