@@ -9,7 +9,8 @@ appVersion: "1.6.6"
 
 home: https://github.com/jxxghp/moviepilot 
 icon: https://raw.githubusercontent.com/jxxghp/MoviePilot-Frontend/main/public/logo.png
-sources: https://github.com/jxxghp/MoviePilot
+sources:
+  - https://github.com/jxxghp/MoviePilot
 keywords:
   - media
   - streaming
